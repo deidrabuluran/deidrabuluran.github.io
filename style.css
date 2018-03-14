@@ -2,7 +2,13 @@
 <link href="" rel="stylesheet" type="text/css">
 <img src=""
      alt="Deidra">
+
 <style>
+<style>
+  .red-text {
+    color: blue;
+  }
+</style>
  <meta charset="utf-8">
  <title> Resume: Maria Deidra Buluran </title>
  <link href="style.css" rel="stylesheet">
@@ -19,7 +25,7 @@
   </section>
 
 <section class=my-skills”>
-       <h2> Summary of Skills</h2>
+       <h2 class="red-text"> Summary of Skills</h2>
        <h3>Graphics</h3>
  <ol>
     <li>Proficient with Photoshop</li>

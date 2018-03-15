@@ -2,12 +2,8 @@
 <html>
 <head>
 <style>
-h1 {
-    height: 200px;
-    width: 60%;
-    background-color: powderblue;
-    color: white;
-    text-align: center;
+body {
+    background-color: blue;
 }
 </style>
 </head>

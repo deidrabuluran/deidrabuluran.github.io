@@ -2,12 +2,10 @@
 <html>
 <head>
 <style>
-body {
-    background-image: url("bgg.jpg");
-    background-repeat: no-repeat;
-    background-position: right top;
-    margin-right: 200px;
-    background-attachment: fixed;
+h1 {
+    height: 200px;
+    width: 60%;
+    background-color: powderblue;
 }
 </style>
 </head>

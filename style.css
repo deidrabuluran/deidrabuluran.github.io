@@ -1,9 +1,87 @@
 <style type="text/css">
 <html>
-<body>
+<head>
+<style>
+ <meta charset="utf-8">
+ <title> Resume: Maria Deidra Buluran </title>
+ <link href="index.html" rel="stylesheet">
+   <meta name="viewport" content="width=device-width">
 body {
     background-color: blue;
-}
 
-</body>
+
+
 </style>
+</head>
+
+
+<body>
+<hr>
+
+  <section class=”about-me”>
+       <h1> Maria Deidra Buluran </h1>
+      <ul>
+       <li> E-mail Address: deidraaabuluran@gmail.com</li>
+       <li> Contact Number: 0947 952 4997</li>
+       <li> Address: 518, Tawiran Panasahan, City of Malolos Bulacan </li>
+       </ul>
+  </section>
+
+ <section class=”my-education”>
+       <h2>Education</h2>
+       <p>
+       Junior High School: <b> Holy Spirit Academy of Malolos</b><br>
+       Bagong Bayan City of Malolos Bulacan<br>
+       (consistent part of top 10 in class)<br>
+       June 2013-March 2017<br>
+       </p>
+  </section>
+<section class=my-skills”>
+       <h2> Summary of Skills</h2>
+       <h3>Graphics</h3>
+ <ol>
+    <li>Proficient with Photoshop</li>
+    <li>An expert Blender user</li>
+</ol>
+<h3>Video Editing</h3>
+ <ol>
+    <li>Proficient with iMovie</li>
+    <li>Proficient with Adobe Premiere</li>
+</ol>
+      <h3> Special Skills</h3>
+      <ol>
+       <li> Knowledgable in MS Ofiice Application</li>
+       <li> Skilled in using Canva and Venngage </li>
+       <li> Observes professionalism under pressure</li>
+       <li> Goal-oriented team leader</li>
+       <li> Patient and willing to learn</li>
+       <li> Open to positive and negative feedbacks</li>
+       <li> Punctual at all times</li>
+       </ol>
+  </section>
+
+<section class=my-work-experience”>
+       <h2>Work Experience</h2>
+      
+      <p>
+       Class President (Grade 9) <br>
+       June 2015- March 2016 </li></p>
+       <ul>
+       <li> Facilitates the peace and order in class </li>
+       <li>Leads the class in class projects and other class activities</li>
+       <li>Gives update to the adviser on what is the situation of the class</li>
+       </ul>
+       <p>
+        Class Vice President (Grade 10) <br>
+       June 2016- March 2017<p>
+       <ul>
+       <li> Evaluates the class performance </li>
+       <li>Assists the President to ensure that all elected and appointed officers function properly</li>
+       <li>Performs any and all duties of the President in his/her absence </li>
+       </ul>
+ 
+ 
+  </section>
+  
+</body>
+</html>

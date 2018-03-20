@@ -1,9 +1,8 @@
 body {
     margin: 40px;
-    font-family: "Candara", serif;
+    font-family: "Times New Roman", serif;
     font-size: 12pt;
-    background-image:url("https://www.shutterstock.com/video/
-    clip-311386-stock-footage-loopable-caduceus-animation-over-light-blue-background-reflection-on-bottom.html");
+    background-image:url("https://static1.squarespace.com/static/5a219a67ccc5c57d4d56d145/t/5a299a44e2c48302aad2a1aa/1512675911156/background-2406119_1920.jpg?format=1500w");
     height: 100%;
     background-position: center;
     background-repeat: no-repeat;
@@ -15,7 +14,9 @@ div{
 
 header {
     font-family: "Trajan Pro", serif;
+    color: white;
     padding-bottom: 10px;
+   
 }
 
 img {
@@ -33,7 +34,8 @@ header span {
     float: right;
 }
 
-section h2 {
+section h1 {
+    color: white;
     font-family: "Trajan Pro", serif;
     font-size: 14pt;
 }

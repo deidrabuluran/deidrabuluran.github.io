@@ -4,9 +4,9 @@ body {
     font-size: 15pt;
     color: white;
     background-image:url("https://images6.alphacoders.com/513/513905.jpg");
-    height: 1000%;
+    height: 100%;
     background-position: center;
-    background-repeat: no-repeat;
+    background-repeat: repeat;
     background-size: cover;
 }
 div{
